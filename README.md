@@ -1,1 +1,1 @@
-# Veritabani12
+Veritabanı uygulaması.
